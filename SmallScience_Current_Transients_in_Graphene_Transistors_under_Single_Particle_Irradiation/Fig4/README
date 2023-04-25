@@ -1,0 +1,3 @@
+The input/output and Matlab file used to get figure 5.
+"In.td" is the basic input of lodestar, "*.sh" is used to generated the input of different irradiation sites.
+Finally the peak transient current map is plotted using "fig4.m"
