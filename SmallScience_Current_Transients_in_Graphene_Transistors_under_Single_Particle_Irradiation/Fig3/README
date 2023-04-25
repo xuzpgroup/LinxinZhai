@@ -1,5 +1,0 @@
-The input/output and Matlab file used to get figure 3.
-"in.fix" and "in.unfix" are basic input files for lodestar to calculate the transient current of the fixed graphene and the free-standing graphene, respectively.
-Use "site.sh" to calculate the transient current of different irradiation sites.
-Files in "siesta" folder are used to get figure 3d.
-And plot the current map use "fig3.m"

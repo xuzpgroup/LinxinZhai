@@ -1,4 +1,0 @@
-The input/output and Matlab file used to get figure 2.
-"pka.sh" and "in.td" are used to generate the calculations of different irradiation sites.
-The current is the key output the get the figure 2.
-The Matlab file used to plot figure 2 is in the "plot" folder.
