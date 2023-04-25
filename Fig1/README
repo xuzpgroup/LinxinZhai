@@ -1,5 +1,0 @@
-The input and data-processing of figure 1.
-Figure 1 is get from the result of "in.fix".
-Figure S2 is get from the result of "in.unfix".
-"Charge.cub" (The file is very large.) in the results is used to generate figure 1.
-The data-processing file is in the "plot" folder used to treat "charge.cub"
